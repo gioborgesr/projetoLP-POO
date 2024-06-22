@@ -5,8 +5,12 @@
 A aplicação é um sistema de loja de periféricos que permite aos usuários:
 
 ► Navegar por uma vitrine de produtos
+
 ► Adicionar itens ao carrinho
-Realizar compras utilizando diferentes formas de pagamento
+
+► Realizar compras utilizando diferentes formas de pagamento
+
+
 O sistema consiste em várias telas, incluindo:
 
 Tela de Login: Necessário inserir login e senha. (Login: admin, Senha: admin)
