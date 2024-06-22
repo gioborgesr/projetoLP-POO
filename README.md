@@ -1,9 +1,11 @@
-Sistema de Loja de Periféricos
-Descrição da Aplicação
+**Sistema de Loja de Periféricos**
+
+**Descrição da Aplicação:**
+
 A aplicação é um sistema de loja de periféricos que permite aos usuários:
 
-Navegar por uma vitrine de produtos
-Adicionar itens ao carrinho
+► Navegar por uma vitrine de produtos
+► Adicionar itens ao carrinho
 Realizar compras utilizando diferentes formas de pagamento
 O sistema consiste em várias telas, incluindo:
 
