@@ -13,7 +13,8 @@ O sistema desenvolvido se trata de uma loja de periféricos, que permite aos usu
 
 O sistema consiste em várias telas, incluindo:
 
-► Tela de Login: Necessário inserir login e senha (Para aumentar a segurança do usuário adicionamos login e senha, no tópico "tela de login" explico melhor como usar);
+
+► Tela de Login: Para aumentar a segurança do usuário é necessário inserir login e senha (Login: **admin**, Senha: **admin**);
 
 ► Vitrine de Produtos: Exibe os produtos disponíveis para compra;
 
@@ -21,30 +22,39 @@ O sistema consiste em várias telas, incluindo:
 
 ► Pagamento: Processa o pagamento dos itens no carrinho;
 
+
 A aplicação está integrada com um banco de dados para gerenciar clientes, produtos, vendas e outras entidades relacionadas ao processo de compra.
 
 **Dependências:**
 
 A aplicação possui as seguintes dependências:
 
+
 ► Java Development Kit (JDK): Para compilar e executar o código Java.
+
 ► Swing: Biblioteca GUI padrão do Java para construir interfaces gráficas.
+
 ► SQLite: Banco de dados relacional embutido para armazenar dados da aplicação.
+
 ► SQLite JDBC Driver: Para conectar a aplicação Java ao banco de dados SQLite.
 
+**COMO USAR:**
 
-Tela de Login:
+**Tela de Login:**
 
-Use as credenciais admin para login e senha.
+Use as credenciais **admin** para login e senha.
+
 Navegar pela Vitrine de Produtos:
 
-Navegue pelos produtos disponíveis e adicione os desejados ao carrinho.
+► Navegue pelos produtos disponíveis e adicione os desejados ao carrinho.
+
 Carrinho de Compras:
 
-Visualize os itens adicionados e prossiga para o pagamento.
+► Visualize os itens adicionados e prossiga para o pagamento.
+
 Pagamento:
 
-Escolha a forma de pagamento e finalize a compra.
+► Escolha a forma de pagamento e finalize a compra.
 
 
 
