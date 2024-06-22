@@ -62,9 +62,7 @@ Use as credenciais **admin** para login e senha.
 ![WhatsApp Image 2024-06-22 at 15 39 45](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/449549b8-46fa-4187-96a4-745b300593b0)
 
 
-**PAGAMENTO:**
 
-► Escolha a forma de pagamento e finalize a compra.
 
 
 
