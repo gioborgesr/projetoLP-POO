@@ -1,6 +1,6 @@
-**Sistema de Loja de Periféricos**
+**SISTEMA DE LOJA DE PERIFÉRICOS**
 
-**Descrição da Aplicação:**
+**DESCRIÇÃO DA APLICAÇÃO:**
 
 O sistema desenvolvido se trata de uma loja de periféricos, que permite aos usuários:
 
@@ -14,13 +14,6 @@ O sistema desenvolvido se trata de uma loja de periféricos, que permite aos usu
 O sistema consiste em várias telas, incluindo:
 
 
-
-
-
-
-
-
-
 ► Tela de Login: Para aumentar a segurança do usuário é necessário inserir login e senha (Login: **admin**, Senha: **admin**);
 
 ► Vitrine de Produtos: Exibe os produtos disponíveis para compra;
@@ -32,7 +25,7 @@ O sistema consiste em várias telas, incluindo:
 
 A aplicação está integrada com um banco de dados para gerenciar clientes, produtos, vendas e outras entidades relacionadas ao processo de compra.
 
-**Dependências:**
+**DEPENDÊNCIAS:**
 
 A aplicação possui as seguintes dependências:
 
@@ -47,21 +40,28 @@ A aplicação possui as seguintes dependências:
 
 **COMO USAR:**
 
-**Tela de Login:**
+**TELA DE LOGIN:**
 
 Use as credenciais **admin** para login e senha.
 
-Navegar pela Vitrine de Produtos:
+![WhatsApp Image 2024-06-22 at 15 39 45](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/9e8e99ce-1b54-4bf1-a273-9e808800560d)
 
-► Navegue pelos produtos disponíveis e adicione os desejados ao carrinho.
+**VITRINE DE PRODUTOS:**
 
-Carrinho de Compras:
+► Navegue  pelos produtos disponíveis e adicione os desejados ao carrinho.
+
+![WhatsApp Image 2024-06-22 at 15 39 44](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/89018c1c-ea38-4cf9-a129-49f632e8cf9c)
+
+
+**CARRINHO DE COMPRAS:**
 
 ► Visualize os itens adicionados e prossiga para o pagamento.
 
-Pagamento:
+**PAGAMENTO:**
 
 ► Escolha a forma de pagamento e finalize a compra.
+
+![WhatsApp Image 2024-06-22 at 15 39 44 (1)](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/278dc185-43c8-4db6-aa6f-758012627ca0)
 
 
 
