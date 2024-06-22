@@ -44,24 +44,29 @@ A aplicação possui as seguintes dependências:
 
 Use as credenciais **admin** para login e senha.
 
-![WhatsApp Image 2024-06-22 at 15 39 45](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/9e8e99ce-1b54-4bf1-a273-9e808800560d)
+![WhatsApp Image 2024-06-22 at 15 39 44 (1)](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/96f597cd-0432-4ac0-a15e-12e5b2499f93)
+
 
 **VITRINE DE PRODUTOS:**
 
 ► Navegue  pelos produtos disponíveis e adicione os desejados ao carrinho.
 
-![WhatsApp Image 2024-06-22 at 15 39 44](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/89018c1c-ea38-4cf9-a129-49f632e8cf9c)
+![WhatsApp Image 2024-06-22 at 15 39 44](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/212c423d-ee8d-4887-8412-556cea70bdd2)
+
 
 
 **CARRINHO DE COMPRAS:**
 
 ► Visualize os itens adicionados e prossiga para o pagamento.
 
+![WhatsApp Image 2024-06-22 at 15 39 45](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/449549b8-46fa-4187-96a4-745b300593b0)
+
+
 **PAGAMENTO:**
 
 ► Escolha a forma de pagamento e finalize a compra.
 
-![WhatsApp Image 2024-06-22 at 15 39 44 (1)](https://github.com/gioborgesr/projetoLP-POO/assets/144972362/278dc185-43c8-4db6-aa6f-758012627ca0)
+
 
 
 
