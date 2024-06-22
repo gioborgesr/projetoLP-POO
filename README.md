@@ -14,6 +14,13 @@ O sistema desenvolvido se trata de uma loja de periféricos, que permite aos usu
 O sistema consiste em várias telas, incluindo:
 
 
+
+
+
+
+
+
+
 ► Tela de Login: Para aumentar a segurança do usuário é necessário inserir login e senha (Login: **admin**, Senha: **admin**);
 
 ► Vitrine de Produtos: Exibe os produtos disponíveis para compra;
