@@ -69,7 +69,7 @@ Use as credenciais **admin** para login e senha.
 
 
 
-**Desenvolvido por Giovana Borges Reis e João Pedro Couto**
+**Desenvolvido por Giovana Borges Reis RA:12120849 e João Pedro Couto RA: 12121862**
 
 
 
